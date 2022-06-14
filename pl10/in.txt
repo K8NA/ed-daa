@@ -1,0 +1,11 @@
+10
+A 2 F G
+B 1 I
+C 1 A
+D 1 B
+E 0
+F 1 G
+G 1 I
+H 0
+I 2 C F
+J 1 B
